@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<stdlib.h>
-//Mukabbir
+//Mukabbir//
 struct node{
     char data;
     struct node *next;
